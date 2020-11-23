@@ -33,3 +33,5 @@ type RowType = {
     Attachments: string,
 }
 ```
+### What to do if something isn't working as I want?
+Just raise an issue and I'll work on it or feel free to raise a PR
